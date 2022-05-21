@@ -10,6 +10,6 @@ test('renders learn react link', () => {
 
 test('prints the expected title', () => {
   render(<App />);
-  const title = screen.getByText(/hey, i'm a vue.js app!/i);
+  const title = screen.getByText(/hey, i'm a react app!/i);
   expect(title).toBeInTheDocument();
 });
