@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hey, I'm a React App!
+          Hey, I'm a Vue.js App!
         </p>
         <a
           className="App-link"
