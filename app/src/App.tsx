@@ -11,7 +11,7 @@ function App() {
           Hey, I'm a React App!
         </p>
         <p>
-          Version 1.2
+          Version 1.3
         </p>
         <a
           className="App-link"
